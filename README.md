@@ -24,13 +24,13 @@ A modern weather dashboard built with *React + Vite + TailwindCSS*, providing re
 This Weather Dashboard is fully responsive and works seamlessly across devices.
 
 ### Desktop View
-![Desktop Screenshot](./assets/screenshot1)
+![Desktop Screenshot](src/assets/screenshot1)
 
 ### Tablet / iPad View
-![Tablet Screenshot](./assets/screenshot2.png)
+![Tablet Screenshot](src/assets/screenshot2.png)
 
 ### Mobile View
-![Mobile Screenshot](./assets/screenshot3.png)
+![Mobile Screenshot](src/assets/screenshot3.png)
 ---
 
 ## 🛠 Tech Stack  
