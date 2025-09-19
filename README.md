@@ -1,65 +1,54 @@
 
-# 🌤 Weather Dashboard
+# 🌦 Weather Dashboard
 
-A modern weather dashboard built with *React (Vite)* and *Tailwind CSS*,  
-integrated with the [OpenWeather API](https://openweathermap.org/).  
+A modern weather dashboard built with *React + Vite + TailwindCSS*, providing real-time weather updates, hourly and daily forecasts, and a clean, responsive UI.  
 
-🔗 *Live Demo*: [View on Netlify](https://your-netlify-link.netlify.app)  
-
----
-
-## 🚀 Features
-- 🌍 Search weather by city  
-- 📊 Current temperature, condition, and “feels like” info  
-- ⏳ 5-hour forecast with icons and temperature  
-- 📱 Responsive design (Mobile, Tablet, Desktop)  
-- 🧩 Clean UI with Tailwind CSS  
+🔗 *Live Demo:* [weathernowapp-anil.netlify.app](https://weathernowapp-anil.netlify.app)  
 
 ---
 
-## 🛠 Tech Stack
-- *React (Vite)*
-- *Tailwind CSS*
-- *OpenWeather API*
+## ✨ Features  
+
+- 🌍 Search weather by *City Name*  
+- ⏰ *Real-time date & time* display  
+- 🌡 Shows *Temperature, Weather Condition, and Wind Speed*  
+- 📊 *Hourly Forecast* (next 24 hours)  
+- 📅 *Daily Forecast* (next 5 days)  
+- 🎨 *Responsive design* with TailwindCSS  
+- ⚡ Fast build & deploy using *Vite + Netlify*  
 
 ---
 
-## ⚙ Setup Instructions
+## 🖼 Screenshots  
 
-Clone the repo and install dependencies:
+### Homepage  
+![Weather Dashboard Screenshot](./assets/screenshot.png)
+
+
+---
+
+## 🛠 Tech Stack  
+
+- ⚛ *React.js (Vite)* – Frontend Framework  
+- 🎨 *TailwindCSS* – Styling  
+- ☁ *Open-Meteo API* – Weather Data  
+- 🚀 *Netlify* – Deployment & Hosting  
+
+---
+
+## 🚀 Getting Started  
+
+Follow these steps to run the project locally:  
+
 ```bash
-git clone https://github.com/your-username/weather-now.git
+# Clone the repository
+git clone https://github.com/Anilgunja9010/weather-now.git
+
+# Go into the project folder
 cd weather-now
+
+# Install dependencies
 npm install
 
-VITE_WEATHER_API_KEY=your_api_key_here
-
+# Start development server
 npm run dev
-
-📦 Deployment
-
-This app is deployed on Netlify.
-To deploy your own version:
-
-1. Create a Netlify account
-
-
-2. Connect your GitHub repo
-
-
-3. Add environment variable VITE_WEATHER_API_KEY
-
-
-4. Deploy 🚀
-
-
-
-
----
-
-👨‍💻 Author
-
-Anil Gunja
-Frontend Developer Intern Test Project
-
-© 2025 Anil Gunja. All rights reserved.
