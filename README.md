@@ -19,12 +19,18 @@ A modern weather dashboard built with *React + Vite + TailwindCSS*, providing re
 
 ---
 
-## 🖼 Screenshots  
+## 📱 Responsive Design
 
-### Homepage  
-![Weather Dashboard Screenshot](./assets/screenshot.png)
+This Weather Dashboard is fully responsive and works seamlessly across devices.
 
+### Desktop View
+![Desktop Screenshot](./assets/screenshot1)
 
+### Tablet / iPad View
+![Tablet Screenshot](./assets/screenshot2.png)
+
+### Mobile View
+![Mobile Screenshot](./assets/screenshot3.png)
 ---
 
 ## 🛠 Tech Stack  
@@ -41,6 +47,7 @@ A modern weather dashboard built with *React + Vite + TailwindCSS*, providing re
 Follow these steps to run the project locally:  
 
 ```bash
+## 📂 Project Setup  
 # Clone the repository
 git clone https://github.com/Anilgunja9010/weather-now.git
 
@@ -52,3 +59,35 @@ npm install
 
 # Start development server
 npm run dev
+
+
+---
+
+📦 Build for Production
+
+npm run build
+
+
+---
+
+🤝 Acknowledgements
+
+TailwindCSS Docs
+
+Vite
+
+Open-Meteo API
+
+Netlify
+
+
+
+---
+
+✨ Author
+
+👨‍💻 Gunja Anil
+
+🌐 GitHub
+
+🚀 Frontend Developer Intern Candidate
